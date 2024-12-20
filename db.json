@@ -1,0 +1,29 @@
+"post" :[
+{
+	"id" :1,
+	"title": "Cách thức hoạt động của hệ thông khuyến nghị",
+	"body": "Hướng dẫn chi tiết cách tích hợp hệ thống khuyến nghị vào website",
+},
+{
+	"id" :2,
+	"title": "Cách thức hoạt động của hệ thông ",
+	"body": "Hướng dẫn chi tiết cách tích hợp hệ thống camera",
+},
+{
+	"id" :3,
+	"title": "Cách thức hoạt động của tô phở",
+	"body": "Hướng dẫn chi tiết cách tích hợp phở bò",
+}
+]
+"user" [
+	{
+	"username" :"an",
+	"title": "xntyuiop",
+	"body": "tran quoc An",
+},
+	{
+	"username" :"alex",
+	"title": "xntyuiop",
+	"body": "Tran quoc An",
+}
+]
